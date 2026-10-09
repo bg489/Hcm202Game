@@ -1,0 +1,16 @@
+{
+  "name": "six-showdown",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently -k -n API,WEB -c blue,magenta \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "npm --prefix backend run dev",
+    "dev:web": "npm --prefix frontend run dev",
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix backend start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

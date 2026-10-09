@@ -1,0 +1,758 @@
+[
+  {
+    "id": "topic-1",
+    "title": "VAI TRÒ CỦA VĂN HÓA TRONG PHÁT TRIỂN",
+    "questions": [
+      {
+        "id": "question-1-1",
+        "topicId": "topic-1",
+        "prompt": "Văn hóa được xác định có vị trí như thế nào trong đời sống xã hội?",
+        "options": [
+          "Chỉ là hoạt động giải trí",
+          "Là nền tảng tinh thần của xã hội",
+          "Chỉ phục vụ hoạt động kinh tế",
+          "Là lĩnh vực phụ thuộc hoàn toàn vào chính trị"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-2",
+        "topicId": "topic-1",
+        "prompt": "Văn hóa có vai trò gì đối với quá trình phát triển?",
+        "options": [
+          "Chỉ là kết quả của phát triển",
+          "Chỉ có vai trò trong giáo dục",
+          "Vừa là mục tiêu, vừa là động lực của phát triển",
+          "Không liên quan đến phát triển kinh tế – xã hội"
+        ],
+        "correctIndex": 2,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-3",
+        "topicId": "topic-1",
+        "prompt": "Xây dựng văn hóa cần gắn với những lĩnh vực nào?",
+        "options": [
+          "Chỉ với giáo dục",
+          "Chỉ với hoạt động nghệ thuật",
+          "Với kinh tế, chính trị và xã hội",
+          "Chỉ với đời sống cá nhân"
+        ],
+        "correctIndex": 2,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-4",
+        "topicId": "topic-1",
+        "prompt": "Mục tiêu của xây dựng văn hóa là hướng đến điều gì?",
+        "options": [
+          "Chỉ mở rộng các hoạt động giải trí",
+          "Xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện",
+          "Chỉ bảo tồn những giá trị cũ",
+          "Chỉ phát triển ngành công nghiệp văn hóa"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-5",
+        "topicId": "topic-1",
+        "prompt": "Xây dựng văn hóa phải góp phần tạo ra điều gì?",
+        "options": [
+          "Một xã hội chỉ coi trọng vật chất",
+          "Môi trường văn hóa lành mạnh",
+          "Một xã hội không có sự thay đổi",
+          "Môi trường cạnh tranh bằng mọi giá"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-6",
+        "topicId": "topic-1",
+        "prompt": "Trong xây dựng văn hóa hiện nay cần chú ý điều gì?",
+        "options": [
+          "Chỉ tiếp nhận văn hóa bên ngoài",
+          "Giữ gìn và phát huy bản sắc văn hóa dân tộc",
+          "Loại bỏ toàn bộ giá trị truyền thống",
+          "Hạn chế giao lưu văn hóa"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-7",
+        "topicId": "topic-1",
+        "prompt": "Phát triển văn hóa phải hướng tới việc nâng cao điều gì?",
+        "options": [
+          "Chỉ năng lực sản xuất",
+          "Đời sống tinh thần của nhân dân",
+          "Chỉ thu nhập cá nhân",
+          "Chỉ trình độ công nghệ"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-1-8",
+        "topicId": "topic-1",
+        "prompt": "Trong xây dựng văn hóa cần đấu tranh chống điều gì?",
+        "options": [
+          "Mọi hình thức giao lưu quốc tế",
+          "Những biểu hiện tiêu cực và suy thoái văn hóa",
+          "Mọi thay đổi trong xã hội",
+          "Sự phát triển của khoa học"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      }
+    ]
+  },
+  {
+    "id": "topic-2",
+    "title": "XÂY DỰNG CON NGƯỜI VIỆT NAM HIỆN NAY",
+    "questions": [
+      {
+        "id": "question-2-1",
+        "topicId": "topic-2",
+        "prompt": "Xây dựng con người Việt Nam hiện nay hướng tới mục tiêu nào?",
+        "options": [
+          "Chỉ giỏi chuyên môn",
+          "Phát triển con người toàn diện",
+          "Chỉ có sức khỏe tốt",
+          "Chỉ có thu nhập cao"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-2",
+        "topicId": "topic-2",
+        "prompt": "Con người Việt Nam cần có phẩm chất nào?",
+        "options": [
+          "Chỉ quan tâm lợi ích cá nhân",
+          "Có lòng yêu nước và trách nhiệm với xã hội",
+          "Không cần quan tâm cộng đồng",
+          "Chỉ cần giỏi nghề nghiệp"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-3",
+        "topicId": "topic-2",
+        "prompt": "Yếu tố nào có vai trò quan trọng trong xây dựng con người?",
+        "options": [
+          "Chỉ kinh nghiệm cá nhân",
+          "Giáo dục và đào tạo",
+          "Chỉ hoạt động giải trí",
+          "Chỉ cạnh tranh kinh tế"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-4",
+        "topicId": "topic-2",
+        "prompt": "Con người Việt Nam hiện nay cần có năng lực gì?",
+        "options": [
+          "Chỉ khả năng ghi nhớ",
+          "Năng lực sáng tạo và làm việc hiệu quả",
+          "Chỉ khả năng làm theo người khác",
+          "Không cần thích ứng với thay đổi"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-5",
+        "topicId": "topic-2",
+        "prompt": "Việc xây dựng con người cần gắn với yếu tố đạo đức nào?",
+        "options": [
+          "Đề cao lợi ích cá nhân",
+          "Có ý thức trách nhiệm với cộng đồng",
+          "Không cần trách nhiệm xã hội",
+          "Chỉ cần tuân thủ mệnh lệnh"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-6",
+        "topicId": "topic-2",
+        "prompt": "Xây dựng con người phải chú trọng phát triển những mặt nào?",
+        "options": [
+          "Chỉ trí tuệ",
+          "Đức, trí, thể, mỹ",
+          "Chỉ thể lực",
+          "Chỉ kỹ năng nghề nghiệp"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-7",
+        "topicId": "topic-2",
+        "prompt": "Con người trong thời kỳ mới cần có thái độ như thế nào với lao động?",
+        "options": [
+          "Xem lao động là việc bắt buộc",
+          "Có ý thức lao động và tinh thần sáng tạo",
+          "Chỉ làm việc vì lợi ích cá nhân",
+          "Tránh những công việc khó khăn"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-2-8",
+        "topicId": "topic-2",
+        "prompt": "Xây dựng con người có quan hệ như thế nào với xây dựng đất nước?",
+        "options": [
+          "Không có quan hệ trực tiếp",
+          "Con người vừa là mục tiêu vừa là chủ thể của phát triển",
+          "Con người chỉ hưởng thành quả",
+          "Chỉ Nhà nước quyết định sự phát triển"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      }
+    ]
+  },
+  {
+    "id": "topic-3",
+    "title": "XÂY DỰNG MÔI TRƯỜNG VĂN HÓA VÀ ĐỜI SỐNG VĂN HÓA",
+    "questions": [
+      {
+        "id": "question-3-1",
+        "topicId": "topic-3",
+        "prompt": "Xây dựng môi trường văn hóa cần bắt đầu từ đâu?",
+        "options": [
+          "Chỉ từ cơ quan nhà nước",
+          "Từ gia đình, cộng đồng và xã hội",
+          "Chỉ từ trường học",
+          "Chỉ từ doanh nghiệp"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-2",
+        "topicId": "topic-3",
+        "prompt": "Gia đình có vai trò như thế nào trong xây dựng văn hóa?",
+        "options": [
+          "Không có vai trò đáng kể",
+          "Là môi trường quan trọng hình thành nhân cách con người",
+          "Chỉ cung cấp điều kiện vật chất",
+          "Chỉ có trách nhiệm nuôi dưỡng trẻ nhỏ"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-3",
+        "topicId": "topic-3",
+        "prompt": "Xây dựng môi trường văn hóa nhằm tạo ra điều gì?",
+        "options": [
+          "Lối sống chạy theo vật chất",
+          "Lối sống lành mạnh và có trách nhiệm",
+          "Sự cạnh tranh cá nhân tuyệt đối",
+          "Sự tách biệt giữa các cá nhân"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-4",
+        "topicId": "topic-3",
+        "prompt": "Xây dựng đời sống văn hóa phải gắn với việc nào?",
+        "options": [
+          "Chỉ tổ chức các hoạt động vui chơi",
+          "Nâng cao đời sống tinh thần của nhân dân",
+          "Chỉ xây dựng cơ sở vật chất",
+          "Chỉ tăng thu nhập"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-5",
+        "topicId": "topic-3",
+        "prompt": "Trong xây dựng môi trường văn hóa cần chống biểu hiện nào?",
+        "options": [
+          "Tinh thần trách nhiệm",
+          "Lối sống ích kỷ, thực dụng",
+          "Tinh thần đoàn kết",
+          "Ý thức học tập"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-6",
+        "topicId": "topic-3",
+        "prompt": "Môi trường văn hóa tốt có tác động gì đến con người?",
+        "options": [
+          "Không ảnh hưởng đến con người",
+          "Góp phần hình thành nhân cách tốt đẹp",
+          "Chỉ làm tăng kiến thức",
+          "Chỉ giúp nâng cao thu nhập"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-7",
+        "topicId": "topic-3",
+        "prompt": "Xây dựng văn hóa trong cộng đồng cần phát huy điều gì?",
+        "options": [
+          "Chủ nghĩa cá nhân",
+          "Tinh thần đoàn kết và tương trợ",
+          "Sự cạnh tranh bằng mọi giá",
+          "Sự tách biệt giữa mọi người"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-3-8",
+        "topicId": "topic-3",
+        "prompt": "Xây dựng đời sống văn hóa cần hướng con người tới giá trị nào?",
+        "options": [
+          "Lợi ích cá nhân tuyệt đối",
+          "Chân, thiện, mỹ",
+          "Tiền bạc và địa vị",
+          "Thành công bằng mọi cách"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      }
+    ]
+  },
+  {
+    "id": "topic-4",
+    "title": "NỘI DUNG XÂY DỰNG ĐẠO ĐỨC CÁCH MẠNG",
+    "questions": [
+      {
+        "id": "question-4-1",
+        "topicId": "topic-4",
+        "prompt": "Xây dựng đạo đức cách mạng nhằm hình thành con người như thế nào?",
+        "options": [
+          "Chỉ có kiến thức chuyên môn",
+          "Có phẩm chất đạo đức tốt đẹp",
+          "Chỉ có năng lực lãnh đạo",
+          "Chỉ có thành tích cá nhân"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-2",
+        "topicId": "topic-4",
+        "prompt": "Một nội dung quan trọng trong xây dựng đạo đức cách mạng là gì?",
+        "options": [
+          "Đề cao chủ nghĩa cá nhân",
+          "Giáo dục lý tưởng cách mạng",
+          "Chỉ tập trung vào kinh tế",
+          "Giảm trách nhiệm cá nhân"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-3",
+        "topicId": "topic-4",
+        "prompt": "Người có đạo đức cách mạng cần đặt lợi ích nào lên trên?",
+        "options": [
+          "Lợi ích cá nhân",
+          "Lợi ích chung",
+          "Lợi ích gia đình",
+          "Lợi ích vật chất"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-4",
+        "topicId": "topic-4",
+        "prompt": "Xây dựng đạo đức cách mạng cần gắn với chống điều gì?",
+        "options": [
+          "Hoạt động tập thể",
+          "Chủ nghĩa cá nhân",
+          "Tinh thần trách nhiệm",
+          "Ý thức cộng đồng"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-5",
+        "topicId": "topic-4",
+        "prompt": "Người cán bộ, đảng viên cần có thái độ như thế nào đối với nhân dân?",
+        "options": [
+          "Xa rời nhân dân",
+          "Gắn bó với nhân dân",
+          "Chỉ làm việc theo cấp trên",
+          "Không cần lắng nghe nhân dân"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-6",
+        "topicId": "topic-4",
+        "prompt": "Đạo đức cách mạng thể hiện trong công việc bằng phẩm chất nào?",
+        "options": [
+          "Làm việc tùy hứng",
+          "Tinh thần trách nhiệm",
+          "Chỉ quan tâm thành tích",
+          "Né tránh khó khăn"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-7",
+        "topicId": "topic-4",
+        "prompt": "Vì sao phải chống chủ nghĩa cá nhân?",
+        "options": [
+          "Vì cá nhân không quan trọng",
+          "Vì chủ nghĩa cá nhân dễ dẫn đến những hành vi tiêu cực",
+          "Vì mọi lợi ích cá nhân đều sai",
+          "Vì con người không được có nhu cầu riêng"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-4-8",
+        "topicId": "topic-4",
+        "prompt": "Xây dựng đạo đức cách mạng phải được thực hiện như thế nào?",
+        "options": [
+          "Chỉ thực hiện khi có kiểm tra",
+          "Thường xuyên và lâu dài",
+          "Chỉ trong thời gian đi học",
+          "Chỉ dành cho cán bộ"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      }
+    ]
+  },
+  {
+    "id": "topic-5",
+    "title": "HỌC TẬP VÀ LÀM THEO TƯ TƯỞNG, ĐẠO ĐỨC, PHONG CÁCH HỒ CHÍ MINH",
+    "questions": [
+      {
+        "id": "question-5-1",
+        "topicId": "topic-5",
+        "prompt": "Học tập đạo đức Hồ Chí Minh cần gắn với điều gì?",
+        "options": [
+          "Chỉ học thuộc lý thuyết",
+          "Làm theo trong thực tiễn",
+          "Chỉ nghiên cứu sách vở",
+          "Chỉ nghe tuyên truyền"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-2",
+        "topicId": "topic-5",
+        "prompt": "Việc học tập đạo đức Hồ Chí Minh nhằm mục đích gì?",
+        "options": [
+          "Chỉ để hoàn thành môn học",
+          "Hoàn thiện phẩm chất của bản thân",
+          "Chỉ để đạt thành tích",
+          "Chỉ để có kiến thức lịch sử"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-3",
+        "topicId": "topic-5",
+        "prompt": "Học tập và làm theo Hồ Chí Minh đòi hỏi mỗi người phải làm gì?",
+        "options": [
+          "Chỉ quan sát người khác",
+          "Tự giác rèn luyện bản thân",
+          "Chờ người khác nhắc nhở",
+          "Chỉ thay đổi khi bị phê bình"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-4",
+        "topicId": "topic-5",
+        "prompt": "Học tập đạo đức cần gắn giữa nhận thức với điều gì?",
+        "options": [
+          "Lời nói",
+          "Hành động thực tế",
+          "Mong muốn cá nhân",
+          "Thành tích học tập"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-5",
+        "topicId": "topic-5",
+        "prompt": "Trong học tập và rèn luyện đạo đức, mỗi người cần thường xuyên làm gì?",
+        "options": [
+          "So sánh mình với người khác",
+          "Tự kiểm điểm bản thân",
+          "Chỉ phê bình người khác",
+          "Tránh nhận khuyết điểm"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-6",
+        "topicId": "topic-5",
+        "prompt": "Học tập phong cách Hồ Chí Minh cần hướng tới cách làm việc nào?",
+        "options": [
+          "Tùy tiện và cảm tính",
+          "Khoa học và hiệu quả",
+          "Chỉ dựa vào kinh nghiệm",
+          "Không cần kế hoạch"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-7",
+        "topicId": "topic-5",
+        "prompt": "Học tập đạo đức Hồ Chí Minh phải bắt đầu từ đâu?",
+        "options": [
+          "Những việc lớn lao",
+          "Những việc hằng ngày",
+          "Chỉ từ hoạt động chính trị",
+          "Chỉ từ công việc tập thể"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-5-8",
+        "topicId": "topic-5",
+        "prompt": "Sinh viên học tập và làm theo Hồ Chí Minh cần thể hiện qua điều gì?",
+        "options": [
+          "Chỉ thông qua điểm số",
+          "Học tập, rèn luyện và sống có trách nhiệm",
+          "Chỉ tham gia phong trào",
+          "Chỉ học lý luận"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      }
+    ]
+  },
+  {
+    "id": "topic-6",
+    "title": "RÈN LUYỆN, TU DƯỠNG VÀ CHỐNG SUY THOÁI ĐẠO ĐỨC",
+    "questions": [
+      {
+        "id": "question-6-1",
+        "topicId": "topic-6",
+        "prompt": "Việc tu dưỡng đạo đức cần được thực hiện trong thời gian nào?",
+        "options": [
+          "Chỉ khi còn đi học",
+          "Trong suốt cuộc đời",
+          "Chỉ khi làm cán bộ",
+          "Chỉ khi mắc sai lầm"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-2",
+        "topicId": "topic-6",
+        "prompt": "Vì sao phải thường xuyên tu dưỡng đạo đức?",
+        "options": [
+          "Vì đạo đức hoàn toàn không thể hình thành",
+          "Vì đạo đức cần được rèn luyện thường xuyên",
+          "Vì chỉ người lớn tuổi mới cần đạo đức",
+          "Vì đạo đức chỉ phụ thuộc vào môi trường"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-3",
+        "topicId": "topic-6",
+        "prompt": "Tu dưỡng đạo đức đòi hỏi mỗi người phải có thái độ nào?",
+        "options": [
+          "Phụ thuộc người khác",
+          "Tự giác và nghiêm túc",
+          "Chỉ làm khi có người giám sát",
+          "Né tránh khuyết điểm"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-4",
+        "topicId": "topic-6",
+        "prompt": "Khi có khuyết điểm, mỗi người nên làm gì?",
+        "options": [
+          "Che giấu khuyết điểm",
+          "Nhận ra và sửa chữa khuyết điểm",
+          "Đổ lỗi cho hoàn cảnh",
+          "Không cần thay đổi"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-5",
+        "topicId": "topic-6",
+        "prompt": "Xây dựng đạo đức phải đi đôi với việc nào?",
+        "options": [
+          "Chỉ khen thưởng người tốt",
+          "Đấu tranh chống cái xấu",
+          "Tránh phê bình",
+          "Không quan tâm đến tiêu cực"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-6",
+        "topicId": "topic-6",
+        "prompt": "Một biểu hiện cần đấu tranh trong quá trình rèn luyện đạo đức là gì?",
+        "options": [
+          "Tinh thần trách nhiệm",
+          "Lối sống ích kỷ",
+          "Ý thức học tập",
+          "Tinh thần đoàn kết"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-7",
+        "topicId": "topic-6",
+        "prompt": "Rèn luyện đạo đức cần thống nhất giữa những yếu tố nào?",
+        "options": [
+          "Lời nói và hành động",
+          "Thành tích và địa vị",
+          "Lợi ích và quyền lực",
+          "Kiến thức và thu nhập"
+        ],
+        "correctIndex": 0,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      },
+      {
+        "id": "question-6-8",
+        "topicId": "topic-6",
+        "prompt": "Mục đích cuối cùng của việc tu dưỡng đạo đức là gì?",
+        "options": [
+          "Để được người khác khen ngợi",
+          "Hoàn thiện nhân cách con người",
+          "Để đạt địa vị cao hơn",
+          "Để tránh mọi sai lầm trong cuộc sống"
+        ],
+        "correctIndex": 1,
+        "points": 100,
+        "status": "available",
+        "attemptedTeamIds": []
+      }
+    ]
+  }
+]
